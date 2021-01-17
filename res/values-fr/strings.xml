@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="press_to_add_a_note">Cliquez pour ajouter une note</string>
+    <string name="note">Note</string>
+    <string name="delete_all_notes">Notes</string>
+    <string name="your_text">Ton texte</string>
+    <string name="save">Gardar</string>
+</resources>

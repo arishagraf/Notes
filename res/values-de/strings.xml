@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notizen</string>
+    <string name="delete_all_notes">Alle Notizen löschen</string>
+    <string name="your_text">Geben Sie ihr Text ein</string>
+    <string name="save">Speichern</string>
+    <string name="note">Notize</string>
+    <string name="press_to_add_a_note">Drücken Sie um Notize hinzuzufügen</string>
+</resources>
